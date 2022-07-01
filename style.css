@@ -1,0 +1,21 @@
+.photo{
+  border-radius: 100px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+}
+.table1{
+  border: 1px solid black;
+}
+h1,h2,h3,h4{
+  color: green;
+}
+.angela_photo{
+
+  border-radius: 100px;
+  width: 10%
+}
